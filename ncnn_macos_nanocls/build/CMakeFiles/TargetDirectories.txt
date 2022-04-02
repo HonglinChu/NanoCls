@@ -1,0 +1,3 @@
+/Users/chuhonglin/Desktop/NCNN_MNN_Demo/NCNN/MacOS/ncnn-macos-nanocls/build/CMakeFiles/nanocls_demo.dir
+/Users/chuhonglin/Desktop/NCNN_MNN_Demo/NCNN/MacOS/ncnn-macos-nanocls/build/CMakeFiles/edit_cache.dir
+/Users/chuhonglin/Desktop/NCNN_MNN_Demo/NCNN/MacOS/ncnn-macos-nanocls/build/CMakeFiles/rebuild_cache.dir
